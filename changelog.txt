@@ -1,0 +1,24 @@
+0.1.4 - 21/01/2015
+*Pre Alpha release*
+1. Added function to add guests who are not present on LogSuite
+2. Non-optimal teams are initially hidden, button shows them.  
+
+0.1.3 - 25/08/2014
+*Pre Alpha release*
+1. Modular design enforced
+2. Team score analysis
+3. Best match highlighted
+4. Redundant debugging code removed
+
+0.1.2 - 24/08/2014
+*Pre Alpha release*
+1. Method redirecting (zero user input required)
+2. Method 2 (1-2-2-1)
+3. Results page
+4. Revised session data (variables now stored for methods and user image paths, this reduces processing time)
+
+
+0.1.1 - 20/08/2014
+*Pre Alpha release*
+1. User data collection and selection
+2. Method 1 (odds and evens) created
